@@ -1,0 +1,3 @@
+It would be pretty cumbersome to implement a solution in `go`, because
+dealing with nested, unstructed data is required.  Therefore, i decided
+to use `python`, which is much better for such a task.
